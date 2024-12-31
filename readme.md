@@ -24,4 +24,4 @@ HTML string to be encoded.
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © Emil Johansson
