@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "encodes html",
   "main": "index.js",
-  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "author": "Emil Johansson",
   "license": "MIT",
   "scripts": {
     "test": "ava"
